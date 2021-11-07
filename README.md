@@ -1,6 +1,8 @@
 # Newport-Powermeter-Control-Program
 Real-Time Optical Power Measurement Program
 
+![image](https://user-images.githubusercontent.com/58495252/140641947-d6361a09-42ff-43fa-8600-752486db0bf4.png)
+
 ### Information
 1) Company: Newport
 2) Category: Power Meter
